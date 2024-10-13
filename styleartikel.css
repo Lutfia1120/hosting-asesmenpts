@@ -1,0 +1,16 @@
+.ya{
+    justify-content: space-between;
+}
+.ya h1{
+    text-align: center;
+}
+.ya img{
+    float:left;
+    padding-right: 10px;
+}
+.ya p{
+    font-style: italic;
+    font-size: 21px;
+    font-weight: lighter;
+    color: rgb(75, 75, 75);
+}
